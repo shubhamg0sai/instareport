@@ -8,7 +8,7 @@ git clone https://github.com/ShuBhamg0sain/instareport.git
 cd instareport
 nano users.txt #set username and password
 pip install requests
-python bot.py
+python report.py
 ```
 
 
@@ -23,7 +23,7 @@ git clone https://github.com/ShuBhamg0sain/instareport.git
 cd instareport
 nano users.txt #set username and password
 python3 -m pip install requests
-python3 bot.py
+python3 report.py
 ```
 
 ## Installation [Windows ](https://wikipedia.org/wiki/Microsoft_Windows)[![alt tag](http://icons.iconarchive.com/icons/tatice/cristal-intense/32/Windows-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
@@ -34,5 +34,5 @@ Extract instareport into Desktop
 Open CMD and type the following commands:
 cd Desktop/instareport-master/
 python -m pip install requests
-bot.bat 
+report.bat 
 ```
