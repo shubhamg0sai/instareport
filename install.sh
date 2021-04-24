@@ -2,9 +2,6 @@ g='\033[1;32m'
 p='\033[1;35m'
 clear
 echo -e "\033[1;32m"
-cd
-clear
-termux-setup-storage
 clear
 echo -e $g 'Please Wait ===+['$p'>              '$g']\'
 sleep 0.2
