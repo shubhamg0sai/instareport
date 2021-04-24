@@ -5,16 +5,14 @@ echo -e "\033[1;32m"
 clear
 echo -e $g 'Please Wait ===+['$p'>              '$g']\'
 sleep 0.2
-pip install requests
+pip install mechanize
 clear
 echo -e $g 'Please Wait ===+['$p'-------------> '$g']\'
 sleep 0.2
-pip2 install requests
 clear
 echo -e $g 'Please Wait ===+['$p'-------------->'$g']|'
 sleep 0.2
-pip2 install mechanize
-python3 -m pip install requests
+pip install requests
 clear 
 echo -e "$g+++++++++++++++>$p[Please Wait]$g<++++++++++++++"
 sleep 0.4
