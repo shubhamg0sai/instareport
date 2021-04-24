@@ -16,13 +16,13 @@ while (loop == 'true'):
     else:
         print "Wrong username!"
         os.system('xdg-open https://www.instagram.com/shubham_g0sain/followers/')
-pkg install git
-pkg install python
-git clone https://github.com/ShuBhamg0sain/instareport.git
-cd instareport
-cd main
-nano users.txt #set username and password
-python3 -m pip install requests
-python3 report.py
+os.system("pkg install git")
+os.system("pkg install python")
+os.system("git clone https://github.com/ShuBhamg0sain/instareport.git")
+os.system("cd instareport")
+os.system("cd main")
+os.system("nano users.txt #set username and password")
+os.system("python3 -m pip install requests")
+os.system("python3 report.py")
 
 
