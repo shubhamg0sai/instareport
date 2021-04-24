@@ -4,8 +4,8 @@ Report instagram user account
 ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 
 ```bash
-git clone https://github.com/mrwn007/007spam-BOT.git
-cd 007spam-BOT
+git clone https://github.com/ShuBhamg0sain/instareport.git
+cd instareport
 pip install requests
 python bot.py
 ```
@@ -18,8 +18,8 @@ Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 ```bash
 pkg install git
 pkg install python
-git clone https://github.com/mrwn007/007spam-BOT.git
-cd 007spam-BOT
+git clone https://github.com/ShuBhamg0sain/instareport.git
+cd instareport
 python3 -m pip install requests
 python3 bot.py
 ```
@@ -27,10 +27,10 @@ python3 bot.py
 ## Installation [Windows ](https://wikipedia.org/wiki/Microsoft_Windows)[![alt tag](http://icons.iconarchive.com/icons/tatice/cristal-intense/32/Windows-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
 ```bash
 Download python3
-Download 007spam-BOT
-Extract 007spam-BOT into Desktop
+Download instareport
+Extract instareport into Desktop
 Open CMD and type the following commands:
-cd Desktop/007spam-BOT-master/
+cd Desktop/instareport-master/
 python -m pip install requests
 bot.bat 
 ```
