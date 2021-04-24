@@ -6,6 +6,7 @@ Report instagram user account
 ```bash
 git clone https://github.com/ShuBhamg0sain/instareport.git
 cd instareport
+nano user.txt #set username and password
 pip install requests
 python bot.py
 ```
@@ -20,6 +21,7 @@ pkg install git
 pkg install python
 git clone https://github.com/ShuBhamg0sain/instareport.git
 cd instareport
+nano user.txt #set username and password
 python3 -m pip install requests
 python3 bot.py
 ```
