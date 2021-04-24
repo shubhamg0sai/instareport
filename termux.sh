@@ -23,5 +23,5 @@ chmod +x report.py
 clear
 echo -e "$g+++++++++++>[$p Welcome to the new update$p$g]<+++++++++++++"
 sleep 1
-python2 report.py
 python3 report.py
+python2 report.py
