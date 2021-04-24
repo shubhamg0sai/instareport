@@ -1,14 +1,7 @@
 # instareport
 Report instagram user account
 
-## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
-```bash
-git clone https://github.com/ShuBhamg0sain/instareport.git
-cd instareport
-pip install requests
-python2 linux.py
-```
-#enter your username and password
+👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubham_g0sain)👈
 
 ─▄█████████████████▄─
 ▄█▀█░█░░░░░░░░░░░░▀█▄
@@ -28,6 +21,16 @@ python2 linux.py
 █▄░by@shubham_g0sain░▄█
 ▀█▄░BLACK-KILLER░░░░░▄█▀
  ─▀███████████████▀─
+
+## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
+```bash
+git clone https://github.com/ShuBhamg0sain/instareport.git
+cd instareport
+pip install requests
+python2 linux.py
+```
+#enter your username and password
+
 
 instareport
 ## Installation [Android](https://wikipedia.org/wiki/Android) [![alt tag](https://cdn1.iconfinder.com/data/icons/logotypes/32/android-32.png)](https://fr.wikipedia.org/wiki/Android)
