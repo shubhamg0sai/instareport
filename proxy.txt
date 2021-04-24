@@ -8,3 +8,112 @@
 172.67.182.104:80
 47.254.90.125:8080
 127.0.0.1:8080
+1.1.1.62:80
+104.248.63.15:30588
+104.248.63.18:30588
+104.248.63.17:30588
+104.248.63.49:30588
+45.77.71.140:9050
+
+
+162.159.241.150	80	Transparent	No	
+ United States
+50 ms	13 minutes ago
+104.26.9.53	80	Transparent	No	
+ United States
+140 ms	13 minutes ago
+1.0.0.116	80	Transparent	No	
+ United States
+80 ms	13 minutes ago
+172.67.182.19	80	Transparent	No	
+ United States
+80 ms	13 minutes ago
+1.1.1.78	80	Transparent	No	
+ United States
+30 ms	13 minutes ago
+162.159.242.38	80	Transparent	No	
+ United States
+130 ms	13 minutes ago
+162.159.247.53	80	Transparent	No	
+ United States
+60 ms	13 minutes ago
+172.105.239.175	80	Anonymous	No	
+ United States
+1050 ms	13 minutes ago
+162.159.242.105	80	Transparent	No	
+ United States
+40 ms	13 minutes ago
+198.41.215.66	80	Transparent	No	
+ United States
+30
+
+
+
+167.172.180.40	36232	Anonymous	No	
+ United States
+2810 ms	13 minutes ago
+172.67.181.100	80	Transparent	No	
+ United States
+100 ms	13 minutes ago
+172.67.182.64	80	Transparent	No	
+ United States
+90 ms	13 minutes ago
+172.67.181.87	80	Transparent	No	
+ United States
+80 ms	13 minutes ago
+1.1.1.248	80	Transparent	No	
+ United States
+40 ms	13 minutes ago
+172.67.182.62	80	Transparent	No	
+ United States
+80 ms	13 minutes ago
+1.0.0.253	80	Transparent	No	
+ United States
+40 ms	13 minutes ago
+172.67.182.60	80	Transparent	No	
+ United States
+70 ms	13 minutes ago
+167.172.184.166	45582	Anonymous	No	
+ United States
+430 ms	13 minutes ago
+172.67.182.161	80	Transparent	No	
+ United States
+110 ms	13 minutes ago
+
+
+
+
+104.21.65.158	80	Transparent	No	
+ United States
+60 ms	13 minutes ago
+104.24.62.159	80	Transparent	No	
+ United States
+100 ms	13 minutes ago
+172.67.181.89	80	Transparent	No	
+ United States
+100 ms	13 minutes ago
+172.67.182.38	80	Transparent	No	
+ United States
+70 ms	13 minutes ago
+104.18.247.198	80	Transparent	No	
+ United States
+30 ms	13 minutes ago
+1.1.1.190	80	Transparent	No	
+ United States
+270 ms	13 minutes ago
+172.67.181.76	80	Transparent	No	
+ United States
+190 ms	13 minutes ago
+172.67.182.36	80	Transparent	No	
+ United States
+200 ms	13 minutes ago
+104.16.102.28	80	Transparent	No	
+ United States
+190 ms	13 minutes ago
+172.67.182.162	80	Transparent	No	
+ United
+
+
+
+
+
