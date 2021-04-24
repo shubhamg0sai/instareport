@@ -8,7 +8,7 @@ cd instareport
 pip install requests
 python2 linux.py
 ```
-#edit your username and password
+#enter your username and password
 
 
 
@@ -24,5 +24,5 @@ cd instareport
 python3 -m pip install requests
 python2 termux.py
 ```
-#edit your username and password
+#enter your username and password
 
