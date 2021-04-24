@@ -9,7 +9,7 @@ https://tr.wikipedia.org/wiki/gnu_genel_kamu_lisans%c4%b1
 https://www.gnu.org/licenses/quick-guide-gplv3.html
 """
 
-__author__ = "Marwan 007 : @mrwn.007"
+__author__ = "@shubham_g0sain"
 __license__ = "GPLv3"
 __version__ = "0.1"
 __status__ = "being developed"
