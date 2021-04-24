@@ -1,4 +1,138 @@
 #CYBER NAME BLACK-KILLER
-#GITHUB: https://www.instagram.com/shubham_g0sain
-import marshal, base64
-exec(base64.b64decode("I0NZQkVSIE5BTUUgQkxBQ0stS0lMTEVSCiNHSVRIVUI6IGh0dHBzOi8vd3d3Lmluc3RhZ3JhbS5jb20vc2h1YmhhbV9nMHNhaW4vP2hsPWVuCiMgY29kaW5nPXV0Zi04CiMhL3Vzci9iaW4vZW52IHB5dGhvbjMKIiIiIApCZWZvcmUgY2hhbmdpbmcgdGhlIHByb2dyYW0gYW5kIHB1Ymxpc2hpbmcgaXQgc29tZXdoZXJlLCBwbGVhc2UKUGxlYXNlIG5vdGUgdGhhdCB0aGlzIHByb2dyYW0gaXMgdW5kZXIgR1BMdjMgbGljZW5zZS4KTW9yZSBpbmZvcm1hdGlvbjoKaHR0cHM6Ly90ci53aWtpcGVkaWEub3JnL3dpa2kvZ251X2dlbmVsX2thbXVfbGlzYW5zJWM0JWIxCmh0dHBzOi8vd3d3LmdudS5vcmcvbGljZW5zZXMvcXVpY2stZ3VpZGUtZ3BsdjMuaHRtbAoiIiIKCl9fYXV0aG9yX18gPSAiQHNodWJoYW1fZzBzYWluIgpfX2xpY2Vuc2VfXyA9ICJHUEx2MyIKX192ZXJzaW9uX18gPSAiMC4yIgpfX3N0YXR1c19fID0gImJlaW5nIGRldmVsb3BlZCIKCmZyb20gdGltZSBpbXBvcnQgdGltZSwgc2xlZXAKZnJvbSByYW5kb20gaW1wb3J0IGNob2ljZQpmcm9tIG11bHRpcHJvY2Vzc2luZyBpbXBvcnQgUHJvY2VzcwoKZnJvbSBsaWJzLnV0aWxzIGltcG9ydCBDaGVja1B1YmxpY0lQLCBJc1Byb3h5V29ya2luZwpmcm9tIGxpYnMudXRpbHMgaW1wb3J0IFByaW50U3RhdHVzLCBQcmludFN1Y2Nlc3MsIFByaW50RXJyb3IKZnJvbSBsaWJzLnV0aWxzIGltcG9ydCBQcmludEJhbm5lciwgR2V0SW5wdXQsIFByaW50RmF0YWxFcnJvcgpmcm9tIGxpYnMudXRpbHMgaW1wb3J0IExvYWRVc2VycywgTG9hZFByb3hpZXMsIFByaW50Q2hvaWNlcwoKZnJvbSBsaWJzLmluc3RhY2xpZW50IGltcG9ydCBJbnN0YUNsaWVudAoKVVNFUlMgPSBbXQpQUk9YSUVTID0gW10KCmRlZiBNdWx0aVRocmVhZCh1c2VybmFtZSwgdXNlcmlkLCBsb2dpbnVzZXIsIGxvZ2lucGFzcywgcHJveHksIHJlYXNvbmlkKToKICAgIGNsaWVudCA9IE5vbmUKICAgIGlmIChwcm94eSAhPSBOb25lKToKICAgICAgICBQcmludFN0YXR1cygiWyIgKyBsb2dpbnVzZXIgKyAiXSIsICJMb2dnaW5nIGludG8gdGhlIEFjY291bnQhIikKICAgICAgICBjbGllbnQgPSBJbnN0YUNsaWVudCgKICAgICAgICAgICAgbG9naW51c2VyLAogICAgICAgICAgICBsb2dpbnBhc3MsCiAgICAgICAgICAgIHByb3h5WyJpcCJdLAogICAgICAgICAgICBwcm94eVsicG9ydCJdCiAgICAgICAgKQogICAgZWxzZToKICAgICAgICBQcmludFN0YXR1cygiWyIgKyBsb2dpbnVzZXIgKyAiXSIsICJMb2dnaW5nIGludG8gdGhlIEFjY291bnQhIikKICAgICAgICBjbGllbnQgPSBJbnN0YUNsaWVudCgKICAgICAgICAgICAgbG9naW51c2VyLAogICAgICAgICAgICBsb2dpbnBhc3MsCiAgICAgICAgICAgIE5vbmUsCiAgICAgICAgICAgIE5vbmUKICAgICAgICApCiAgICAgICAgCiAgICBjbGllbnQuQ29ubmVjdCgpCiAgICBjbGllbnQuTG9naW4oKQogICAgY2xpZW50LlNwYW0odXNlcmlkLCB1c2VybmFtZSwgcmVhc29uaWQpCiAgICBwcmludCgiIikKCmRlZiBOb011bHRpVGhyZWFkKCk6CiAgICBmb3IgdXNlciBpbiBVU0VSUzoKICAgICAgICBjbGllbnQgPSBOb25lCiAgICAgICAgaWYgKHVzZXByb3h5KToKICAgICAgICAgICAgcHJveHkgPSBjaG9pY2UoUFJPWElFUykKICAgICAgICAgICAgUHJpbnRTdGF0dXMoIlsiICsgdXNlclsidXNlciJdICsgIl0iLCAiTG9nZ2luZyBpbnRvIHRoZSBBY2NvdW50ISIpCiAgICAgICAgICAgIGNsaWVudCA9IEluc3RhQ2xpZW50KAogICAgICAgICAgICAgICAgdXNlclsidXNlciJdLAogICAgICAgICAgICAgICAgdXNlclsicGFzc3dvcmQiXSwKICAgICAgICAgICAgICAgIHByb3h5WyJpcCJdLAogICAgICAgICAgICAgICAgcHJveHlbInBvcnQiXQogICAgICAgICAgICApCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcHJveHkgPSBjaG9pY2UoUFJPWElFUykKICAgICAgICAgICAgUHJpbnRTdGF0dXMoIlsiICsgdXNlclsidXNlciJdICsgIl0iLCAiTG9nZ2luZyBpbnRvIHRoZSBBY2NvdW50ISIpCiAgICAgICAgICAgIGNsaWVudCA9IEluc3RhQ2xpZW50KAogICAgICAgICAgICAgICAgdXNlclsidXNlciJdLAogICAgICAgICAgICAgICAgdXNlclsicGFzc3dvcmQiXSwKICAgICAgICAgICAgICAgIE5vbmUsCiAgICAgICAgICAgICAgICBOb25lCiAgICAgICAgICAgICkKICAgICAgICAKICAgICAgICBjbGllbnQuQ29ubmVjdCgpCiAgICAgICAgY2xpZW50LkxvZ2luKCkKICAgICAgICBjbGllbnQuU3BhbSh1c2VyaWQsIHVzZXJuYW1lLCByZWFzb25pZCkKICAgICAgICBwcmludCgiIikKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgUHJpbnRCYW5uZXIoKQogICAgUHJpbnRTdGF0dXMoIkxvYWRpbmcgdXNlcnMhIikKICAgIFVTRVJTID0gTG9hZFVzZXJzKCIuL3VzZXJzLnR4dCIpCiAgICBQcmludFN0YXR1cygiTG9hZGluZyBQcm94ZXMhIikKICAgIFBST1hJRVMgPSBMb2FkUHJveGllcygiLi9wcm94eS50eHQiKQogICAgcHJpbnQoIiIpCgogICAgdXNlcm5hbWUgPSBHZXRJbnB1dCgiZW50ZXIgYWNjb3VudCB1c2VybmFtZSB5b3Ugd2FudCB0byBjb21wbGFpbiA6IikKICAgIHVzZXJpZCA9IEdldElucHV0KCJudW1iZXIgb2YgcmVwb3J0IHlvdSB3YW50IHRvIGNvbXBsYWluIDoiKQogICAgdXNlcHJveHkgPSBHZXRJbnB1dCgiRG8geW91IHdhbnQgdG8gdXNlIHByb3h5PyBbeWVzIG5vXToiKQogICAgaWYgKHVzZXByb3h5ID09ICJ5ZXMiKToKICAgICAgICB1c2Vwcm94eSA9IFRydWUKICAgIGVsaWYgKHVzZXByb3h5ID09ICJubyIpOgogICAgICAgIHVzZXByb3h5ID0gRmFsc2UKICAgIGVsc2U6CiAgICAgICAgUHJpbnRGYXRhbEVycm9yKCJQbGVhc2UganVzdCBlbnRlciAneWVzJyBvciAnbm8nISIpCiAgICAgICAgZXhpdCgwKQogICAgdXNlbXVsdGl0aHJlYWQgPSBHZXRJbnB1dCgiRG8geW91IHdhbnQgdG8gdXNlIG11bHRpdGhyZWFkaW5nPyBbWWVzIC8gTm9dIChEbyBub3QgdXNlIHRoaXMgZmVhdHVyZSBpZiB5b3UgaGF2ZSB0b28gbWFueSB1c2VycyBvciBpZiB5b3VyIGNvbXB1dGVyIGlzIHNsb3chKToiKQogICAgCiAgICBpZiAodXNlbXVsdGl0aHJlYWQgPT0gInllcyIpOgogICAgICAgIHVzZW11bHRpdGhyZWFkID0gVHJ1ZQogICAgZWxpZiAodXNlbXVsdGl0aHJlYWQgPT0gIm5vIik6CiAgICAgICAgdXNlbXVsdGl0aHJlYWQgPSBGYWxzZQogICAgZWxzZToKICAgICAgICBQcmludEZhdGFsRXJyb3IoIlBsZWFzZSBqdXN0IGVudGVyICdZZXMnIG9yICdObychIikKICAgICAgICBleGl0KDApCiAgICAKICAgIFByaW50Q2hvaWNlcygpCiAgICByZWFzb25pZCA9IEdldElucHV0KCJQbGVhc2Ugc2VsZWN0IG9uZSBvZiB0aGUgcmVhc29ucyBmb3IgdGhlIGFib3ZlIGNvbXBsYWludCAoZXg6IDEgZm9yIHNwYW0pOiIpCgogICAgCiAgICAKICAgIAogICAgcHJpbnQoIiIpCiAgICBQcmludFN0YXR1cygiU3RhcnRpbmchIikKICAgIHByaW50KCIiKQoKICAgIGlmICh1c2VtdWx0aXRocmVhZCA9PSBGYWxzZSk6CiAgICAgICAgTm9NdWx0aVRocmVhZCgpCiAgICBlbHNlOgogICAgICAgIGZvciB1c2VyIGluIFVTRVJTOgogICAgICAgICAgICBwID0gUHJvY2Vzcyh0YXJnZXQ9TXVsdGlUaHJlYWQsCiAgICAgICAgICAgICAgICBhcmdzPSh1c2VybmFtZSwKICAgICAgICAgICAgICAgICAgICB1c2VyaWQsCiAgICAgICAgICAgICAgICAgICAgdXNlclsidXNlciJdLAogICAgICAgICAgICAgICAgICAgIHVzZXJbInBhc3N3b3JkIl0sCiAgICAgICAgICAgICAgICAgICAgTm9uZSBpZiB1c2Vwcm94eSA9PSBGYWxzZSBlbHNlIGNob2ljZShQUk9YSUVTKSwKICAgICAgICAgICAgICAgICAgICByZWFzb25pZAogICAgICAgICAgICAgICAgKQogICAgICAgICAgICApCiAgICAgICAgICAgIHAuc3RhcnQoKSAKICAgCg=="))
+#INSTAGRAM : https://www.instagram.com/shubham_g0sain
+#CYBER NAME BLACK-KILLER
+# coding=utf-8
+#!/usr/bin/env python3
+""" 
+Before changing the program and publishing it somewhere, please
+Please note that this program is under GPLv3 license.
+More information:
+https://tr.wikipedia.org/wiki/gnu_genel_kamu_lisans%c4%b1
+https://www.gnu.org/licenses/quick-guide-gplv3.html
+"""
+
+__author__ = "@shubham_g0sain"
+__license__ = "GPLv3"
+__version__ = "0.2"
+__status__ = "being developed"
+
+from time import time, sleep
+from random import choice
+from multiprocessing import Process
+
+from libs.utils import CheckPublicIP, IsProxyWorking
+from libs.utils import PrintStatus, PrintSuccess, PrintError
+from libs.utils import PrintBanner, GetInput, PrintFatalError
+from libs.utils import LoadUsers, LoadProxies, PrintChoices
+
+from libs.instaclient import InstaClient
+
+USERS = []
+PROXIES = []
+
+def MultiThread(username, userid, loginuser, loginpass, proxy, reasonid):
+    client = None
+    if (proxy != None):
+        PrintStatus("[" + loginuser + "]", "Logging into the Account!")
+        client = InstaClient(
+            loginuser,
+            loginpass,
+            proxy["ip"],
+            proxy["port"]
+        )
+    else:
+        PrintStatus("[" + loginuser + "]", "Logging into the Account!")
+        client = InstaClient(
+            loginuser,
+            loginpass,
+            None,
+            None
+        )
+        
+    client.Connect()
+    client.Login()
+    client.Spam(userid, username, reasonid)
+    print("")
+
+def NoMultiThread():
+    for user in USERS:
+        client = None
+        if (useproxy):
+            proxy = choice(PROXIES)
+            PrintStatus("[" + user["user"] + "]", "Logging into the Account!")
+            client = InstaClient(
+                user["user"],
+                user["password"],
+                proxy["ip"],
+                proxy["port"]
+            )
+        else:
+            proxy = choice(PROXIES)
+            PrintStatus("[" + user["user"] + "]", "Logging into the Account!")
+            client = InstaClient(
+                user["user"],
+                user["password"],
+                None,
+                None
+            )
+        
+        client.Connect()
+        client.Login()
+        client.Spam(userid, username, reasonid)
+        print("")
+
+
+if __name__ == "__main__":
+    PrintBanner()
+    PrintStatus("Loading users!")
+    USERS = LoadUsers("./users.txt")
+    PrintStatus("Loading Proxes!")
+    PROXIES = LoadProxies("./proxy.txt")
+    print("")
+
+    username = GetInput("enter account username you want to complain :")
+    userid = GetInput("number of report you want to complain :")
+    useproxy = GetInput("Do you want to use proxy? [yes no]:")
+    if (useproxy == "yes"):
+        useproxy = True
+    elif (useproxy == "no"):
+        useproxy = False
+    else:
+        PrintFatalError("Please just enter 'yes' or 'no'!")
+        exit(0)
+    usemultithread = GetInput("Do you want to use multithreading? [Yes / No] (Do not use this feature if you have too many users or if your computer is slow!):")
+    
+    if (usemultithread == "yes"):
+        usemultithread = True
+    elif (usemultithread == "no"):
+        usemultithread = False
+    else:
+        PrintFatalError("Please just enter 'Yes' or 'No'!")
+        exit(0)
+    
+    PrintChoices()
+    reasonid = GetInput("Please select one of the reasons for the above complaint (ex: 1 for spam):")
+
+    
+    
+    
+    print("")
+    PrintStatus("Starting!")
+    print("")
+
+    if (usemultithread == False):
+        NoMultiThread()
+    else:
+        for user in USERS:
+            p = Process(target=MultiThread,
+                args=(username,
+                    userid,
+                    user["user"],
+                    user["password"],
+                    None if useproxy == False else choice(PROXIES),
+                    reasonid
+                )
+            )
+            p.start() 
+   
+
