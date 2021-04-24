@@ -25,7 +25,7 @@ python2 linux.py
  █░░░░░▀██▄▄░▄▄██▀░░█
  █░░░░░░░▀▀███▀▀░░░░█
 █▄░instareport░░░░░░▄█
-█▄░by shubham_g0sain░▄█
+█▄░by@shubham_g0sain░▄█
 ▀█▄░BLACK-KILLER░░░░░▄█▀
  ─▀███████████████▀─
 
