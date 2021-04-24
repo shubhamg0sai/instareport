@@ -1,28 +1,3 @@
-import os
-CorrectUsername = "g0sain"
-CorrectPassword = "sim"
-
-loop = 'true'
-while (loop == 'true'):
-    username = raw_input("\033[1;96m[#] \x1b[0;36m Enter Username\x1b[1;92m➤ ")
-    if (username == CorrectUsername):
-    	password = raw_input("\033[1;96m[#] \x1b[0;36m Enter Password\x1b[1;92m➤ ")
-        if (password == CorrectPassword):
-            print "Logged in successfully as " + username #fb-cloning-id SG
-            loop = 'false'
-        else:
-            print "Wrong password!"
-            os.system('xdg-open https://www.instagram.com/shubham_g0sain/?hl=en')
-    else:
-        print "Wrong username!"
-        os.system('xdg-open https://www.instagram.com/shubham_g0sain/followers/')
-os.system("pkg install git")
-os.system("pkg install python")
-os.system("git clone https://github.com/ShuBhamg0sain/instareport.git")
-os.system("cd instareport")
-os.system("cd main")
-os.system("nano users.txt #set username and password")
-os.system("python3 -m pip install requests")
-os.system("python3 report.py")
-
+import marshal, base64
+exec(base64.b64decode("aW1wb3J0IG9zCkNvcnJlY3RVc2VybmFtZSA9ICJnMHNhaW4iCkNvcnJlY3RQYXNzd29yZCA9ICJzaW0iCgpsb29wID0gJ3RydWUnCndoaWxlIChsb29wID09ICd0cnVlJyk6CiAgICB1c2VybmFtZSA9IHJhd19pbnB1dCgiXDAzM1sxOzk2bVsjXSBceDFiWzA7MzZtIEVudGVyIFVzZXJuYW1lXHgxYlsxOzkybeKepCAiKQogICAgaWYgKHVzZXJuYW1lID09IENvcnJlY3RVc2VybmFtZSk6CiAgICAJcGFzc3dvcmQgPSByYXdfaW5wdXQoIlwwMzNbMTs5Nm1bI10gXHgxYlswOzM2bSBFbnRlciBQYXNzd29yZFx4MWJbMTs5Mm3inqQgIikKICAgICAgICBpZiAocGFzc3dvcmQgPT0gQ29ycmVjdFBhc3N3b3JkKToKICAgICAgICAgICAgcHJpbnQgIkxvZ2dlZCBpbiBzdWNjZXNzZnVsbHkgYXMgIiArIHVzZXJuYW1lICNmYi1jbG9uaW5nLWlkIFNHCiAgICAgICAgICAgIGxvb3AgPSAnZmFsc2UnCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcHJpbnQgIldyb25nIHBhc3N3b3JkISIKICAgICAgICAgICAgb3Muc3lzdGVtKCd4ZGctb3BlbiBodHRwczovL3d3dy5pbnN0YWdyYW0uY29tL3NodWJoYW1fZzBzYWluLz9obD1lbicpCiAgICBlbHNlOgogICAgICAgIHByaW50ICJXcm9uZyB1c2VybmFtZSEiCiAgICAgICAgb3Muc3lzdGVtKCd4ZGctb3BlbiBodHRwczovL3d3dy5pbnN0YWdyYW0uY29tL3NodWJoYW1fZzBzYWluL2ZvbGxvd2Vycy8nKQpvcy5zeXN0ZW0oInBrZyBpbnN0YWxsIGdpdCIpCm9zLnN5c3RlbSgicGtnIGluc3RhbGwgcHl0aG9uIikKb3Muc3lzdGVtKCJnaXQgY2xvbmUgaHR0cHM6Ly9naXRodWIuY29tL1NodUJoYW1nMHNhaW4vaW5zdGFyZXBvcnQuZ2l0IikKb3Muc3lzdGVtKCJjZCBpbnN0YXJlcG9ydCIpCm9zLnN5c3RlbSgiY2QgbWFpbiIpCm9zLnN5c3RlbSgibmFubyB1c2Vycy50eHQgI3NldCB1c2VybmFtZSBhbmQgcGFzc3dvcmQiKQpvcy5zeXN0ZW0oInB5dGhvbjMgLW0gcGlwIGluc3RhbGwgcmVxdWVzdHMiKQpvcy5zeXN0ZW0oInB5dGhvbjMgcmVwb3J0LnB5IikKCgo="))
 
