@@ -24,9 +24,9 @@ python2 linux.py
  █░░░░░█▄░▀███▀░▄█░░█
  █░░░░░▀██▄▄░▄▄██▀░░█
  █░░░░░░░▀▀███▀▀░░░░█
- █▄░BLACK-KILLER░░  ░▄█
- █▄░BLACK-KILLER░░  ░▄█
-▀█▄░BLACK-KILLER░░  ░▄█▀
+░█▄░BLACK-KILLER░░░░░▄█░
+░█▄░BLACK-KILLER░░░░░▄█░
+▀█▄░BLACK-KILLER░░░░░▄█▀
  ─▀███████████████▀─
 
 
