@@ -1,6 +1,12 @@
 # instareport
 Report instagram user account
 
+# Google pay
+UPI: sgosain18122001@okaxis
+
+# PhonePe
+UPI: shubhamg0sai@ybl
+
 Instagram account
 👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamg0sai)👈
 
